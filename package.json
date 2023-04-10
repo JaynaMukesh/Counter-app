@@ -37,5 +37,6 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.1"
-  }
+  },
+  "homepage": "https://jayna.webxspark.com/counter-app-jayna"
 }
